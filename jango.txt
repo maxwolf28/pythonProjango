@@ -1,0 +1,4 @@
+python -m django startproject website
+cd websitepython
+manage.py migrate
+python manage.py runserver
